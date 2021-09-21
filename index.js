@@ -77,6 +77,7 @@ squares[pacmanCurrentIndex].classList.add('pacman')
 
 function control(e) {
     squares[pacmanCurrentIndex].classList.remove('pacman')
+    //keyCode is not supported in some browsers use .key instead
     switch(e.keyCode) {
         case 40:
         if (
