@@ -4,7 +4,6 @@ html, body {
     font-family: 'Stick No Bills', sans-serif;
 }
 body{
-    text-align:center;
     display:flex;
     justify-content:center;
     align-items:center;    
