@@ -1,11 +1,13 @@
 html, body {
     margin: 10;
     padding: 10;
-}
-.game{
-    width:80%;
-    margin:0 auto;
     font-family: 'Stick No Bills', sans-serif;
+}
+body{
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;    
 }
 .grid {
     display: flex;
