@@ -2,7 +2,11 @@ html, body {
     margin: 10;
     padding: 10;
 }
-
+.game{
+    width:80%;
+    margin:0 auto;
+    font-family: 'Stick No Bills', sans-serif;
+}
 .grid {
     display: flex;
     flex-wrap: wrap;
