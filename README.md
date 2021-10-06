@@ -1,7 +1,7 @@
 # Pacman vanilla js
 your childhood game in vanilla JS, html5 and css3
 
-# [live demo](https://didier187.github.io/pacman-classic-game/)
+#  Try the game [HERE](https://didier187.github.io/pacman-classic-game/)
 ![pactman](https://www.pixelstalk.net/wp-content/uploads/2016/05/Wallpaper-Favourites-By-Princessang2644-On-DeviantArt.jpg)
 ## How to play:
 - Move **Pacman** (yellow ball) with Arrow keys
